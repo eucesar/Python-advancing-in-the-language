@@ -3,7 +3,7 @@
    <img align="center" alt="Cesar-Python" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </p>
 
-> 🌱👨‍💻 - I understand more how your syntax works. Organized my code with functions. Dealt with different data structures. Know the List comprehensions. worked with files.
+> 🌱👨‍💻 - I understand more how your syntax works, organized my code with functions. Dealt with different data structures. Know the List comprehensions. worked with files.
 
 
 ## Download
